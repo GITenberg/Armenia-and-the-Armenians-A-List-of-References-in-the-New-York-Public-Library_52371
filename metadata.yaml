@@ -1,5 +1,5 @@
 _repo: Armenia-and-the-Armenians-A-List-of-References-in-the-New-York-Public-Library_52371
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   compiler:
     agent_name: Pratt, Ida A. (Ida Augusta)
@@ -13,7 +13,12 @@ contributor:
     deathdate: 1936
     gutenberg_agent_id: '5661'
     url: http://www.gutenberg.org/2009/agents/5661
+covers:
+- cover_type: archival
+  image_path: 52371-h/images/new-cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52371#Armenia-and-the-Armenians-A-List-of-References-in-the-New-York-Public-Library
 gutenberg_issued: '2016-06-19'
 gutenberg_type: Text
 identifiers:
