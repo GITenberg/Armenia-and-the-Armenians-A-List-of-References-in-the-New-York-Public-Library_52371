@@ -1,0 +1,32 @@
+_repo: Armenia-and-the-Armenians-A-List-of-References-in-the-New-York-Public-Library_52371
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Pratt, Ida A. (Ida Augusta)
+    alias: Pratt, I. A. (Ida Augusta)
+    gutenberg_agent_id: '46822'
+    url: http://www.gutenberg.org/2009/agents/46822
+  other_contributor:
+    agent_name: Gottheil, Richard J. H. (Richard James Horatio)
+    alias: Gottheil, Richard James Horatio
+    birthdate: 1862
+    deathdate: 1936
+    gutenberg_agent_id: '5661'
+    url: http://www.gutenberg.org/2009/agents/5661
+description: ''
+gutenberg_issued: '2016-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52371'
+  lccn: '19018619'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Armenia -- Bibliography'
+- !lcsh 'Armenian question -- Bibliography'
+- GITenberg
+title: 'Armenia and the Armenians: A List of References in the New York Public Library'
+url: http://www.gutenberg.org/ebooks/52371
